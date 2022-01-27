@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yogininanawareYN
 - 👀 I’m interested in Front End Developer
 - 🌱 I’m currently learning Wordpress, Bootstrap, JavaScript HTML, CSS
-- 💞️ I’m looking to collaborate on Web Development Project, SAAS
+- 💞️ I’m looking to collaborate on Web Development Projects, SAAS
 - 📫 How to reach me yogini.nanaware@theajex.com
 
 <!---
